@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name ATMEGA32A-PU)(type Legacy)(uri ${KIPRJMOD}/libraries/ATMEGA32A-PU/ATMEGA32A-PU.lib)(options "")(descr ""))
+  (lib (name USB4085-GF-A_REVA)(type Legacy)(uri ${KIPRJMOD}/libraries/USB4085-GF-A_REVA/USB4085-GF-A_REVA.lib)(options "")(descr ""))
+  (lib (name CherryMX)(type Legacy)(uri "${KIPRJMOD}/libraries/mx switch library/symbols/CherryMX.lib")(options "")(descr ""))
+)
