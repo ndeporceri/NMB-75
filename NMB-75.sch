@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:NMB-75-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -580,4 +581,12 @@ GND
 Wire Wire Line
 	3300 6000 3300 6300
 Connection ~ 3300 6000
+Text GLabel 3900 3100 2    50   Input ~ 0
+COL1
+Text GLabel 3900 3200 2    50   Input ~ 0
+COL0
+Text GLabel 3900 3300 2    50   Input ~ 0
+ROW1
+Text GLabel 3900 4600 2    50   Input ~ 0
+ROW0
 $EndSCHEMATC
