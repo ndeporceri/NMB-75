@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name USB4085-GF-A_REVA)(type KiCad)(uri ${KIPRJMOD}/libraries/USB4085-GF-A_REVA)(options "")(descr ""))
+  (lib (name Alps_Only)(type KiCad)(uri ${KIPRJMOD}/libraries/MX_Alps_Hybrid-master/Alps_Only.pretty)(options "")(descr ""))
+  (lib (name Kailh_Choc)(type KiCad)(uri ${KIPRJMOD}/libraries/MX_Alps_Hybrid-master/Kailh_Choc.pretty)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri ${KIPRJMOD}/libraries/MX_Alps_Hybrid-master/MX_Alps_Hybrid.pretty)(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/libraries/MX_Alps_Hybrid-master/MX_Only.pretty)(options "")(descr ""))
+  (lib (name ATMEGA32A-PU)(type KiCad)(uri ${KIPRJMOD}/libraries/ATMEGA32A-PU)(options "")(descr ""))
+  (lib (name libraries)(type KiCad)(uri ${KIPRJMOD}/libraries)(options "")(descr ""))
+)
